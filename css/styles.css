@@ -38,7 +38,7 @@ h1 {
 h2 {
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
-    font-size: 3rem;
+    font-size: 2.5rem;
     line-height: 1.5;
 }
 
@@ -97,6 +97,14 @@ p {
     margin: 20px 20px 50px;
 }
 
+.carousel-item {
+    padding: 7% 15%;
+}
+
+.pricing-column {
+padding: 3% 2%;
+}
+
 /** ID Selectors **/
 #title {
     background-color: #ff4c68;
@@ -104,11 +112,10 @@ p {
 }
 
 #features {
-    padding: 7% 10%;
+    padding: 7% 9%;
 }
 
 #testimonials {
-    padding: 7% 10%;
     text-align: center;
     background-color: #ef8172;
     color: #fff;
@@ -118,4 +125,9 @@ p {
     background-color: #ef8172;
     text-align: center;
     padding-bottom: 3%;
+}
+
+#pricing {
+    text-align: center;
+    padding: 100px;
 }
