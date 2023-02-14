@@ -23,6 +23,10 @@
     margin: 5% 3% 5% 0;
 }
 
+.download-button-bottom {
+    margin: 1% 2% 2% 0;
+}
+
 /** Tag Selectors **/
 body {
     font-family: 'Montserrat', sans-serif;
@@ -67,7 +71,7 @@ p {
 }
 
 .title-image {
-    width: 70%;
+    width: 60%;
     transform: rotate(25deg);
     margin: 10% 0 10% 0;
 }
@@ -130,4 +134,17 @@ padding: 3% 2%;
 #pricing {
     text-align: center;
     padding: 100px;
+}
+
+#cta {
+    text-align: center;
+    background-color: #ef8172;
+    color: #fff;
+    padding-top: 2%;
+}
+
+#footer {
+    text-align: center;
+    background-color: #fff;
+    padding-top: 1%;
 }
