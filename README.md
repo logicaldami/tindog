@@ -11,7 +11,7 @@ Picture Preview:
 
 Video Preview:
 
-[![Watch the video]](https://youtube.com/shorts/YYjp1cxjIDg?feature=share)
+[![Watch the video](https://youtube.com/shorts/YYjp1cxjIDg?feature=share)](https://youtube.com/shorts/YYjp1cxjIDg?feature=share)
 
 
 ## Built With
