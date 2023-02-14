@@ -23,7 +23,7 @@ Demo: https://engrshege.github.io/tindog/
     
 ## Assesment Completed
 
-  - **Tuesday, 14 Feb 2023**
+  - **Tuesday, 14 Feb. 2023**
 
 
 ## License
