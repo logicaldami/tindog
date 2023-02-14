@@ -5,7 +5,11 @@ TinDog is a landing page standing in as a practice assessment from @angelabauer 
 
 Demo: https://engrshege.github.io/tindog/
 
+Picture Preview:
 ![tindog](./images/Capture.png)
+
+Video Preview:
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
 
 
 ## Built With
