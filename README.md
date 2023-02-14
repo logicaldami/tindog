@@ -3,7 +3,7 @@ TinDog is a landing page standing in as a practice assessment from @angelabauer 
 
 ## Deployment
 
-Demo: https://engrshege.github.io/tindog/
+Live Demo: https://engrshege.github.io/tindog/
 
 Picture Preview:
 ![tindog](./images/Capture.png)
