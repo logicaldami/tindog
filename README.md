@@ -9,7 +9,7 @@ Picture Preview:
 ![tindog](./images/Capture.png)
 
 Video Preview:
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://twitter.com/engrshege/status/1625461584175800320?t=JWzAMBVqT_FIBqTHkzWmWA&s=19)
 
 
 ## Built With
