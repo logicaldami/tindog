@@ -1,6 +1,7 @@
 # TinDog 🐶
 TinDog is a landing page standing in as a practice assessment from @angelabauer Web Development course. I placed it on Github so I could follow up closely on completing the assessment as a means to improve my skill.
 
+
 ## Deployment
 
 Live Demo: https://engrshege.github.io/tindog/
@@ -9,7 +10,7 @@ Picture Preview:
 ![tindog](./images/Capture.png)
 
 Video Preview:
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://twitter.com/engrshege/status/1625461584175800320?t=JWzAMBVqT_FIBqTHkzWmWA&s=19)
+
 
 
 ## Built With
