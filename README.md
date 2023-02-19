@@ -9,8 +9,9 @@ Live Demo: https://engrshege.github.io/tindog/
 Picture Preview:
 ![tindog](./images/Capture.png)
 
-Video Preview:
+Picture/Video Preview:
 [![Watch the video](https://github.com/engrshege/tindog/blob/main/images/Capture.png)](https://user-images.githubusercontent.com/52855925/219947299-4b3af208-5528-4b80-adb6-7e9a63b5bdc7.mp4)
+Click the Picture Above to Watch Demo-Video
 
 
 ## Built With
