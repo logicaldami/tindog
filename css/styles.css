@@ -109,6 +109,17 @@ p {
 padding: 3% 2%;
 }
 
+.cta-heading{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: black;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+
+.social-icon {
+    margin: 20px 10px;
+}
+
 /** ID Selectors **/
 #title {
     background-color: #ff4c68;
@@ -138,13 +149,13 @@ padding: 3% 2%;
 
 #cta {
     text-align: center;
-    background-color: #ef8172;
+    background-color: #ff4c68;
     color: #fff;
-    padding-top: 2%;
+    padding: 7% 15%;
 }
 
 #footer {
     text-align: center;
     background-color: #fff;
-    padding-top: 1%;
+    padding: 7% 15%;
 }
