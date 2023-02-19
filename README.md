@@ -11,6 +11,8 @@ Picture Preview:
 
 Video Preview:
 https://user-images.githubusercontent.com/52855925/219947299-4b3af208-5528-4b80-adb6-7e9a63b5bdc7.mp4
+[![Watch the video](https://user-images.githubusercontent.com/52855925/219947299-4b3af208-5528-4b80-adb6-7e9a63b5bdc7.mp4)]
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)]
 
 
 ## Built With
