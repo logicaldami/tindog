@@ -10,8 +10,7 @@ Picture Preview:
 ![tindog](./images/Capture.png)
 
 Video Preview:
-
-[![Watch the video](https://youtube.com/shorts/YYjp1cxjIDg?feature=share)](https://youtube.com/shorts/YYjp1cxjIDg?feature=share)
+https://user-images.githubusercontent.com/52855925/219947299-4b3af208-5528-4b80-adb6-7e9a63b5bdc7.mp4
 
 
 ## Built With
