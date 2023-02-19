@@ -4,7 +4,8 @@ TinDog is a landing page standing in as a practice assessment from @angelabauer 
 
 ## Deployment
 
-Live Demo: https://engrshege.github.io/tindog/
+Live Demo Link: 
+https://engrshege.github.io/tindog/
 
 Picture Preview:
 
@@ -12,7 +13,7 @@ Picture Preview:
 
 Video Preview:
 
-https://user-images.githubusercontent.com/52855925/219947299-4b3af208-5528-4b80-adb6-7e9a63b5bdc7.mp4
+https://user-images.githubusercontent.com/52855925/219982109-0519c6ee-c789-4ef2-b2ae-bdc530ff39a0.mp4
 
 
 ## Built With
@@ -30,7 +31,7 @@ https://user-images.githubusercontent.com/52855925/219947299-4b3af208-5528-4b80-
     
 ## Assesment Completed
 
-  * Tuesday, 14 Feb. 2023
+  * Sunday, 19 Feb. 2023
 
 
 ## License
