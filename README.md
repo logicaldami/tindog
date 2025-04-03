@@ -5,7 +5,7 @@ TinDog is a landing page standing in as a practice assessment from @angelabauer 
 ## Deployment
 
 Live Demo Link: 
-https://engrshege.github.io/tindog/
+https://logicaldami.github.io/tindog/
 
 Picture Preview:
 
@@ -26,7 +26,7 @@ https://user-images.githubusercontent.com/52855925/219982109-0519c6ee-c789-4ef2-
 ## Authors
 
   - **Oluwasegun Idowu**
-    [engrshege](https://github.com/engrshege/)
+    [logicaldami](https://github.com/logicaldami/)
     
     
 ## Assesment Completed
